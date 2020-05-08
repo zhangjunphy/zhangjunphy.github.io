@@ -26,9 +26,9 @@
 "<div class=\"header\">
   <a href=\"https://zhangjunphy.github.io\">Not a Knot</a>
   <div class=\"sitelinks\">
-    <a href=\"/blog/about.html\">about<a>
-    | <a href=\"/blog/archive.html\">archive<a>
-    | <a href=\"/blog/rss.xml\">rss<a>
+    <a href=\"/about.html\">about<a>
+    | <a href=\"/archive.html\">archive<a>
+    | <a href=\"/rss.xml\">rss<a>
 </div>")
 
 (setq org-static-blog-page-postamble
