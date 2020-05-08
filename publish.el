@@ -20,7 +20,7 @@
 "<meta name=\"author\" content=\"zj\">
 <meta name=\"referrer\" content=\"no-referrer\">
 <link href= \"static/style.css\" rel=\"stylesheet\" type=\"text/css\" />
-<link rel=\"icon\" href=\"static/favicon.ico\">")
+<link rel=\"icon\" href=\"/favicon.ico\" type=\"image/x-icon\">")
 
 (setq org-static-blog-page-preamble
 "<div class=\"header\">
