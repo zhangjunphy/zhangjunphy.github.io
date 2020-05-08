@@ -2,3 +2,18 @@
     font-family: "Iosevka";
     src: url(iosevka-regular.woff2);
 }
+
+#preamble {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+#postamble {
+    margin-top: 2em;
+    color: gray;
+}
+
+#postamble a {
+    color: gray;
+    text-decoration: underline;
+}

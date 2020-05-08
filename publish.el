@@ -11,7 +11,7 @@
 (setq org-static-blog-drafts-directory (concat script-dir "drafts"))
 
 (setq org-static-blog-publish-title "Not a Knot")
-(setq org-static-blog-publish-url "https://zhangjunphy.github.io/")
+(setq org-static-blog-publish-url "https://zhangjunphy.github.io")
 (setq org-static-blog-enable-tags t)
 (setq org-export-with-toc nil)
 (setq org-export-with-section-numbers nil)
@@ -29,13 +29,14 @@
     <a href=\"/about.html\">about<a>
     | <a href=\"/archive.html\">archive<a>
     | <a href=\"/rss.xml\">rss<a>
+  </div>
 </div>")
 
 (setq org-static-blog-page-postamble
-"<center><a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0\"><img alt=\"Creative Commons License Attribution ShareAlike\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" /></a><br /><span xmlns:dct=\"https://purl.org/dc/terms/\" href=\"https://purl.org/dc/dcmitype/Text\" property=\"dct:title\" rel=\"dct:type\">zhangjunphy.github.io</span> by <a xmlns:cc=\"https://creativecommons.org/ns#\" href=\"https://zhangjunphy.github.io\" property=\"cc:attributionName\" rel=\"cc:attributionURL\">zj</a> is licensed under a <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 License</a>.</center>")
+"<center><a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0\"><img alt=\"Creative Commons License Attribution ShareAlike\" style=\"border-width:0;max-width:5em\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" /></a><br /><span xmlns:dct=\"https://purl.org/dc/terms/\" href=\"https://purl.org/dc/dcmitype/Text\" property=\"dct:title\" rel=\"dct:type\">zhangjunphy.github.io</span> by <a xmlns:cc=\"https://creativecommons.org/ns#\" href=\"https://zhangjunphy.github.io\" property=\"cc:attributionName\" rel=\"cc:attributionURL\">zj</a> is licensed under a <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 License</a>.</center>")
 
 ;; Publish blog files
-(org-static-blog-publish)
+(org-static-blog-publish t)
 
 ;; Local Variables:
 ;; flycheck-disabled-checkers: (emacs-lisp-checkdoc)

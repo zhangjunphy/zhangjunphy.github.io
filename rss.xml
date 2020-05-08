@@ -3,18 +3,18 @@
 <channel>
 <title><![CDATA[Not a Knot]]></title>
 <description><![CDATA[Not a Knot]]></description>
-<link>https://zhangjunphy.github.io/</link>
-<lastBuildDate>Fri, 08 May 2020 23:59:33 +0800</lastBuildDate>
+<link>https://zhangjunphy.github.io</link>
+<lastBuildDate>Sat, 09 May 2020 00:50:17 +0800</lastBuildDate>
 <item>
   <title><![CDATA[Hindley-Milner Type System]]></title>
   <description><![CDATA[
 <p>
 I will write about this. Someday, yeah!
 </p>
-<div class="taglist"><a href="https://zhangjunphy.github.io/tags.html">Tags</a>: <a href="https://zhangjunphy.github.io/tag-programming.html">programming</a> <a href="https://zhangjunphy.github.io/tag-languages.html">languages</a> </div>]]></description>
+<div class="taglist"><a href="https://zhangjunphy.github.iotags.html">Tags</a>: <a href="https://zhangjunphy.github.iotag-programming.html">programming</a> <a href="https://zhangjunphy.github.iotag-languages.html">languages</a> </div>]]></description>
   <category><![CDATA[programming]]></category>
   <category><![CDATA[languages]]></category>
-  <link>https://zhangjunphy.github.io//hindley-milner.html</link>
+  <link>https://zhangjunphy.github.io/hindley-milner.html</link>
   <pubDate>Tue, 05 May 2020 08:00:00 +0800</pubDate>
 </item>
 </channel>
