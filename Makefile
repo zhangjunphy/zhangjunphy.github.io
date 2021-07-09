@@ -1,4 +1,8 @@
 all : publish
 
 publish : publish.el $(wildcard posts/**/*) $(wildcard drafts/**/*) $(wildcard static/**/*)
-	emacs --script publish.el
+	emacs -q --script publish.el
+
+.PHONY : clean
+clean :
+	-rm *.html

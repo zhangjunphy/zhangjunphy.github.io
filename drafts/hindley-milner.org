@@ -1,5 +1,5 @@
 #+TITLE: Hindley-Milner Type System
 #+DATE: <2020-05-05 Tue>
-#+FILETAGS: programming languages
+#+FILETAGS: compiler
 
 I will write about this. Someday, yeah!

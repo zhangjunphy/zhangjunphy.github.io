@@ -1,30 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-<channel>
-<title><![CDATA[Not a Knot]]></title>
-<description><![CDATA[Not a Knot]]></description>
-<link>https://zhangjunphy.github.io</link>
-<lastBuildDate>Fri, 09 Jul 2021 11:25:40 +0800</lastBuildDate>
-<item>
-  <title><![CDATA[新的开始]]></title>
-  <description><![CDATA[
-<p>
+#+TITLE: 新的开始
+#+DATE: <2020-05-05 Tue>
+#+FILETAGS: life
+
 上次比较认真地写 Blog 应该是很久之前的事情了, 大约是 2013 年左右吧. 当
 时一部分也是为了找工作, 虽然写得比较认真, 内容其实不太有趣. 基本都是技
 术性的东西, 以及当时在看的一些书的习题解答之类 (当时应该是受了网上某人
 的影响, 他当时在写量子场论导论的全部习题, 可以说是非常有毅力了). 后来
 去了个互联网公司,事务比较繁忙,另一方面也是觉得写一些大家都比较了解的东
 西, 意义并不大, 就逐渐放弃了这件事情. 
-</p>
 
-<p>
 去年换了份写编译器的工作, 工作之余的时间充裕不少. 最近一年也发生了不少
 事情, 各种层面上吧. 2020 年可能对很多人都会是一个重要的节点, 不管是好
 的方面还是相反. 于是决定把 Blog 重新用起来. 之前的文章很难再找到了, 有
 点遗憾, 虽然那些 post 可能也没什么实际的价值.
-</p>
 
-<p>
 以后我打算在这个 Blog 写点各种主题的内容, 自己感兴趣的东西或者自己的想
 法等等. 自己的一个小癖好就是看各种人物的 Blog, 很多都比较冷清, 但是可
 以看到不同的人的经历和他们的想法, 看到他们高兴或者烦恼的事情, 以及他们
@@ -32,11 +21,3 @@
 感叹人类直接的相通或者无法相通. 这个 Blog 或许也会成为某人感叹的对象,
 或者给某些人一些启发. 对我自己来说, 至少若干年之后再回头来看一看, 应该
 也会很有趣.
-</p>
-<div class="taglist"><a href="https://zhangjunphy.github.io/tags.html">Tags</a>: <a href="https://zhangjunphy.github.io/tag-life.html">life</a> </div>]]></description>
-  <category><![CDATA[life]]></category>
-  <link>https://zhangjunphy.github.io/new-start.html</link>
-  <pubDate>Tue, 05 May 2020 08:00:00 +0800</pubDate>
-</item>
-</channel>
-</rss>
